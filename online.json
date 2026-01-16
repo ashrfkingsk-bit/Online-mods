@@ -1,10 +1,10 @@
 {
-    "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"false",
-    "servermeassage":"Wait We Are Working On a new Update ! @ZENIN_MODS",
-    "opentime":" Wait For Some Time ⚡",
-    "libs":"https://github.com/ashrfkingsk-bit/Online-mods/raw/refs/heads/main/king.zip",
-    "notice_title":"king mods",
-    "notice_body":"ONLINE MOD"
+  "serverstatus": "true",
+  "noticemode": "false",
+  "dataclearmode": "false",
+  "servermeassage": "Wait We Are Working On a new Update",
+  "opentime": "Just wait few more times 🙂",
+  "libs": "https://github.com/ashrfkingsk-bit/Online-mods/raw/refs/heads/main/king.zip",
+  "notice_title": "Status Is Safe ",
+  "notice_body": " welcome to vip loader"
 }
