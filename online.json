@@ -1,7 +1,7 @@
 {
-  "serverstatus": "false",
-  "noticemode": "true",
-  "dataclearmode": "true",
+  "serverstatus": "true",
+  "noticemode": "false",
+  "dataclearmode": "false",
   "servermeassage": "Wait We Are Working On a new Update",
   "opentime": "Just wait few more times 🙂",
   "libs": "https://github.com/ashrfkingsk-bit/Online-mods/raw/refs/heads/main/libking.zip",
